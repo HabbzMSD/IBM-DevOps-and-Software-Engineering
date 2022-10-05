@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Thinking DevOps
 
 - Social coding is coding as a community and public repositories and pair programming result in higher code quality. 
 
