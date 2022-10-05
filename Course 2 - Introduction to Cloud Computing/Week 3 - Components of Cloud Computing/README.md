@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Components of Cloud Computing
 
 __Cloud Infrastructure__
 
