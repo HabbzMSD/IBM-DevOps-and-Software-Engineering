@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Overview of DevOps
 
 - Technology is the enabler of innovation, rather than the driver of innovation. You must have an innovative business idea to leverage technology.
 
