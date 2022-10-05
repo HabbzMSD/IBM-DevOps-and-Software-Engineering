@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Working DevOps
 
 - Taylorism was designed for factory work and software development is bespoke, that is, more like craftwork, and that working in silos leads to mistakes and bottlenecks. 
 
