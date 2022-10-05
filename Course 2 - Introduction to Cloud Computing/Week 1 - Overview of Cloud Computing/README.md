@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Overview of Cloud Computing
 
 __Introduction to Cloud Computing__
 
