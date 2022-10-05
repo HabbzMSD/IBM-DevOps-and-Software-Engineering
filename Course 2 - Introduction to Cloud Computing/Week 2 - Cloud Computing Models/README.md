@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Cloud Computing Models
 
 __Service Models__
 
