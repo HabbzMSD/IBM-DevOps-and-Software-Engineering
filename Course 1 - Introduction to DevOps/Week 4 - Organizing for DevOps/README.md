@@ -1,4 +1,4 @@
-# Summary and Highlights
+# Organizing for DevOps
 
 - Organizations need to have small, dedicated, cross-functional, self-organizing teams to successfully implement DevOps. 
 
