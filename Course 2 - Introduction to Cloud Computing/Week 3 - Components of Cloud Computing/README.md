@@ -2,25 +2,25 @@
 
 __Cloud Infrastructure__
 
-Cloud infrastructure consists of data centers, storage, networking components, and compute resources.
+- Cloud infrastructure consists of data centers, storage, networking components, and compute resources.
 
-Virtualization is the process of creating a software-based version of physical resources, made possible through the use of hypervisors. 
+- Virtualization is the process of creating a software-based version of physical resources, made possible through the use of hypervisors. 
 
-A few different types of Virtual Machines can be provisioned on the cloud. These include:
+- A few different types of Virtual Machines can be provisioned on the cloud. These include:
 
-- Shared or Public Cloud VMs that are provider-managed, multi-tenant deployments that can be provisioned on-demand with predefined sizes
+    - Shared or Public Cloud VMs that are provider-managed, multi-tenant deployments that can be provisioned on-demand with predefined sizes
 
-- Transient or Spot VMs that take advantage of unused capacity in a cloud data center
+    - Transient or Spot VMs that take advantage of unused capacity in a cloud data center
 
-- Reserved VMs that allow you to reserve capacity and guarantee resources for future deployments 
+    - Reserved VMs that allow you to reserve capacity and guarantee resources for future deployments 
 
-- Dedicated hosts that offer single-tenant isolation
+    - Dedicated hosts that offer single-tenant isolation
 
-Bare metal servers are single-tenant physical servers that are dedicated to a single customer. Bare metal servers fulfill the demanding needs of high-performance computing (HPC) and data intense applications and are ideal for applications that have a high degree of security or compliance requirements.
+- Bare metal servers are single-tenant physical servers that are dedicated to a single customer. Bare metal servers fulfill the demanding needs of high-performance computing (HPC) and data intense applications and are ideal for applications that have a high degree of security or compliance requirements.
 
-Networking capabilities in the cloud are delivered as a service rather than in the form of rack-mounted devices. Cloud resources, such as VMs (or VSIs), storage, network connectivity, and load balancers, are deployed into subnets within Virtual Private Clouds (VPCs). Using private and public subnets allows users to deploy multi-tier enterprise applications securely. Load balancers distribute the traffic and allow applications to be responsive.
+- Networking capabilities in the cloud are delivered as a service rather than in the form of rack-mounted devices. Cloud resources, such as VMs (or VSIs), storage, network connectivity, and load balancers, are deployed into subnets within Virtual Private Clouds (VPCs). Using private and public subnets allows users to deploy multi-tier enterprise applications securely. Load balancers distribute the traffic and allow applications to be responsive.
 
-Containers are an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere—desktops, traditional IT, or the cloud. Containers are lighter weight and consume fewer resources than Virtual Machines - helping streamline the development and deployment of cloud native applications. 
+- Containers are an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere—desktops, traditional IT, or the cloud. Containers are lighter weight and consume fewer resources than Virtual Machines - helping streamline the development and deployment of cloud native applications. 
 
 __Cloud Storage and Content Delivery Networks__
 
