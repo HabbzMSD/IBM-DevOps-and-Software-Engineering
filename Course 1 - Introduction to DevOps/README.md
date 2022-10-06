@@ -16,22 +16,3 @@
 ## Proof of Completion
 
 <img src="certificate.png" width=800>
-
-## Team & Acknowledgements
-
-- __Primary Instructors:__ John Rofrano
-
-- __Other Contributors and Staff__
-    - __Project Lead:__ Rav Ahuja
-    - __Instructional Designers:__ Claire Baddeley, Mary Deville
-    - __Lab Author:__ John Rofrano
-
-- __Production Team__
-    - __Publishing:__ Rachael Jones, Grace Barker
-    - __QA:__ Sunny Anderson
-    - __Project Manager:__ Charlie Money
-    - __Narration:__ John Rofrano
-    - __Video Production:__ John Rofrano, Lauren Hall
-
-- __Teaching Assistants and Forum Moderators__
-    - __Teaching Assistants:__ Srishti Srivastava, Shubham Yadav, Sourabh Mohan, Pallavi Rai, Anamika Agarwal, Lavanya T S
